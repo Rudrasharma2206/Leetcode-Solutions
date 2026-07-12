@@ -19,12 +19,14 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -38,6 +40,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Array
 |  |
@@ -49,6 +52,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Trie
@@ -79,4 +83,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
