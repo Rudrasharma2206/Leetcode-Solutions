@@ -67,6 +67,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0417-pacific-atlantic-water-flow](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0704-binary-search](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1488-avoid-flood-in-the-city](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -109,4 +110,16 @@
 |  |
 | ------- |
 | [1488-avoid-flood-in-the-city](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
+## Depth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+## Matrix
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
