@@ -13,6 +13,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -26,6 +27,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -49,6 +51,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
