@@ -41,8 +41,13 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
