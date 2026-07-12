@@ -128,4 +128,12 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
