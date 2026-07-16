@@ -4,7 +4,7 @@ class Solution {
         int i=0;
         int j=n-1;
         int ans=0;
-        while(i<n-1 && j>=0){
+        while(i<j){
             int sum=(Math.min(arr[i],arr[j]))*(j-i);
             if(arr[i]>arr[j]){
                 j--;
