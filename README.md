@@ -21,6 +21,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Hash Table
@@ -42,6 +43,7 @@
 | [0169-majority-element](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Heap (Priority Queue)
 |  |
@@ -80,6 +82,7 @@
 | [0283-move-zeroes](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0704-binary-search](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
