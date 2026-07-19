@@ -36,6 +36,7 @@
 | [0242-valid-anagram](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1488-avoid-flood-in-the-city](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
@@ -88,6 +89,7 @@
 | [1488-avoid-flood-in-the-city](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Trie
 |  |
@@ -164,6 +166,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
