@@ -38,6 +38,7 @@
 | [0242-valid-anagram](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -91,6 +92,7 @@
 | [0283-move-zeroes](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0523-continuous-subarray-sum](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -185,6 +187,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
