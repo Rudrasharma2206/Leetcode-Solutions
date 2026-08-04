@@ -42,6 +42,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1488-avoid-flood-in-the-city](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -97,6 +98,7 @@
 | [0704-binary-search](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -190,4 +192,5 @@
 | [0525-contiguous-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
