@@ -100,6 +100,7 @@
 | [0904-fruit-into-baskets](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -193,4 +194,5 @@
 | [0560-subarray-sum-equals-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
