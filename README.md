@@ -102,6 +102,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,6 +156,7 @@
 | [0055-jump-game](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [1488-avoid-flood-in-the-city](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 ## Depth-First Search
 |  |
