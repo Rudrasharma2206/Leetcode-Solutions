@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -183,6 +185,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0523-continuous-subarray-sum](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1922-count-good-numbers](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
