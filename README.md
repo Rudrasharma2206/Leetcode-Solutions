@@ -27,6 +27,7 @@
 | [0015-3sum](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -99,6 +100,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0055-jump-game) |
@@ -159,6 +161,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -258,6 +261,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -268,6 +272,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
