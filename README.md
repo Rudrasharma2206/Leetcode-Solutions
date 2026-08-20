@@ -116,6 +116,7 @@
 | [0283-move-zeroes](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -147,6 +148,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0456-132-pattern](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1488-avoid-flood-in-the-city](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -264,6 +266,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -276,7 +279,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
