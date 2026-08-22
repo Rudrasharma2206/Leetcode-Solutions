@@ -168,6 +168,7 @@
 | [0042-trapping-rain-water](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -208,6 +209,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1922-count-good-numbers](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
@@ -293,5 +295,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
