@@ -1,18 +1,17 @@
 class Solution {
-    public int maxProfit(int[] prices) {
-        int minPrice = Integer.MAX_VALUE;
-        int maxProfit = 0;
-        
-        for (int i = 0; i < prices.length; i++) {
-            // If today's price is cheaper than anything we've seen, update minPrice
-            if (prices[i] < minPrice) {
-                minPrice = prices[i];
-            } else if (prices[i] - minPrice > maxProfit) {
-                // Otherwise, see if selling today gives us a better profit than before
-                maxProfit = prices[i] - minPrice;
+    public int maxProfit(int[] arr) {
+        int max=0;
+        int curr=0;
+        int buy_price=arr[0];
+        for (int i=1;i<arr.length;i++){
+            if(buy_price>arr[i]){
+                buy_price=arr[i];
+            } 
+            else{
+                curr=arr[i]-buy_price;
+                max=Math.max(curr,max);
             }
         }
-        
-        return maxProfit;
+        return max;
     }
 }
