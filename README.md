@@ -45,6 +45,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -108,6 +109,7 @@
 | [0049-group-anagrams](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -211,6 +213,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Linked List
 |  |
