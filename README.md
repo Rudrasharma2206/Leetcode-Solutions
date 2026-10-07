@@ -135,6 +135,7 @@
 | [0724-find-pivot-index](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -185,6 +186,7 @@
 | [0152-maximum-product-subarray](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
 |  |
