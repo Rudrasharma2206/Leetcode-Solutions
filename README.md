@@ -125,6 +125,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0456-132-pattern) |
@@ -187,6 +188,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -214,6 +216,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Matrix
 |  |
@@ -324,4 +327,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
