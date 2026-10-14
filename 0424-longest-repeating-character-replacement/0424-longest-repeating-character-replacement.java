@@ -1,30 +1,19 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        int[] freq = new int[26];
-        int j = 0; // Left pointer of the window
-        int maxFrequency = 0; // Max frequency of any single character in current window
-        int maxLen = 0; // Longest valid substring length
-
-        for (int i = 0; i < s.length(); i++) {
-            char rightChar = s.charAt(i);
-            freq[rightChar - 'A']++;
-            
-            // Track the highest frequency of a single character in the window
-            maxFrequency = Math.max(maxFrequency, freq[rightChar - 'A']);
-
-            int windowLength = i - j + 1;
-
-            // If changes needed (windowLength - maxFrequency) exceed k, shrink window from left
-            while ((windowLength - maxFrequency) > k) {
-                char leftChar = s.charAt(j);
-                freq[leftChar - 'A']--;
+        HashMap<Character,Integer> map=new HashMap<>();
+        int maxLen=0;
+        int maxFreq=0;
+        int j=0;
+        for(int i=0;i<s.length();i++){
+            Character c=s.charAt(i);
+            map.put(c,map.getOrDefault(c,0)+1);
+            maxFreq=Math.max(maxFreq,map.get(c));
+            while((i-j+1)-maxFreq>k){
+                map.put(s.charAt(j),map.get(s.charAt(j))-1);
                 j++;
-                windowLength = i - j + 1;
             }
-
-            maxLen = Math.max(maxLen, windowLength);
+            maxLen=Math.max(maxLen,i-j+1);
         }
-
         return maxLen;
     }
 }
