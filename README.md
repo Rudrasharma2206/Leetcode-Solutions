@@ -143,6 +143,7 @@
 | [0525-contiguous-array](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -172,6 +173,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0456-132-pattern](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1488-avoid-flood-in-the-city](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -200,6 +202,7 @@
 | [0221-maximal-square](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
@@ -276,6 +279,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -363,4 +367,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
