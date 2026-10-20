@@ -238,6 +238,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -258,6 +259,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
