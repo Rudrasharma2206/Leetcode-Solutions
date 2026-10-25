@@ -10,11 +10,11 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        // Create a dummy node to serve as the starting point of the merged list
-        ListNode dummy = new ListNode(-1);
+       
+        ListNode dummy = new ListNode();
         ListNode current = dummy;
         
-        // Traverse both lists, attaching the smaller value node to our new list
+        
         while (list1 != null && list2 != null) {
             if (list1.val <= list2.val) {
                 current.next = list1;
@@ -26,14 +26,14 @@ class Solution {
             current = current.next;
         }
         
-        // Attach whichever list still has remaining nodes
+    
         if (list1 != null) {
             current.next = list1;
         } else {
             current.next = list2;
         }
         
-        // Return the merged list, starting right after the dummy node
+        
         return dummy.next;
     }
 }
