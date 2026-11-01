@@ -235,6 +235,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Breadth-First Search
 |  |
@@ -350,6 +351,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0456-132-pattern) |
@@ -411,4 +413,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rudrasharma2206/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
